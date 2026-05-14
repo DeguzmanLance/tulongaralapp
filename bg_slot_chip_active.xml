@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#2E2A4A" />
+    <stroke android:width="1.5dp" android:color="#5B4FBF" />
+    <corners android:radius="10dp" />
+</shape>
+<!-- bg_slot_chip_active.xml — active/selected slot (purple border + tinted bg) -->
